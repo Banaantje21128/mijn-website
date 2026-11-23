@@ -1,0 +1,12 @@
+.outer {
+    display: flex;
+    height: 98vh;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    font-family: Monospaced, "Bookman Old Style", serif;
+    background-image: url("Old-film-overlay.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 101%;
+}
